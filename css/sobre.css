@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #212529 !important;
+}
+
+.container {
+    background-color: #121212;
+}
+
+.container h1,
+.container p {
+    color: #fff;
+}

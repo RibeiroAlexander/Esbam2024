@@ -1,0 +1,28 @@
+body {
+    background-color: #121212;
+    color: #fff;
+}
+
+
+.card {
+    background-color: #121212;
+    color: #fff;
+}
+
+.card-title,
+.card-text {
+    color: #fff;
+}
+
+#servicos {
+    background-color: #121212;
+    color: #fff;
+}
+
+#servicos h2 {
+    color: #fff;
+}
+
+#servicos p {
+    color: #ccc;
+}
